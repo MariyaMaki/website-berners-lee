@@ -115,6 +115,11 @@ li {
     
 }
 
+mark {
+    background-color: #D4D4D4;
+    color: #7D7D7D;
+}
+
 .favorite {
     text-align: center;
     font-size: larger;
